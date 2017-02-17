@@ -8,6 +8,7 @@ body {
  color: white;
  font-family: "Open Sans",  Impact;
  text-align:center;
+ animation:blur .75s ease-out infinite;
 }
 
 
