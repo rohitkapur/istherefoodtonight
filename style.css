@@ -17,15 +17,16 @@ body {
     height: calc(100vh - 50px);
     vertical-align: middle;
     text-align: center;
-    animation:blur .75s ease-out infinite;
 }
 
 .pulse {
     font-size: 142px;
+    animation:blur .75s ease-out infinite;
 }
 
 .info {
     font-size: 18px;
+    animation:blur .75s ease-out infinite;
 }
 
 .help a {
