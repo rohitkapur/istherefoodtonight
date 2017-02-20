@@ -26,7 +26,6 @@ body {
 
 .info {
     font-size: 18px;
-    animation:blur .75s ease-out infinite;
 }
 
 .help a {
