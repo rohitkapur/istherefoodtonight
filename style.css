@@ -17,6 +17,7 @@ body {
     height: calc(100vh - 50px);
     vertical-align: middle;
     text-align: center;
+    animation:blur .75s ease-out infinite;
 }
 
 .pulse {
