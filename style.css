@@ -21,7 +21,7 @@ body {
 
 .pulse {
     font-size: 142px;
-    animation:blur .75s ease-out infinite;
+    animation:blur 1.75s ease-out infinite;
 }
 
 .info {
