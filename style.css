@@ -20,8 +20,8 @@ body {
 }
 
 .pulse {
-    font-size: 142px;
-    animation:blur 1.75s ease-out infinite;
+    font-size: 100px;
+    animation:blur 5.00s ease-out infinite;
 }
 
 .info {
